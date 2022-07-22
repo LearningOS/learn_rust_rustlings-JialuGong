@@ -20,6 +20,10 @@ enum ParsePosNonzeroError {
 }
 
 impl ParsePosNonzeroError {
+    pub fn from_creation(){
+        
+
+    }
     // TODO: add another error conversion function here.
 }
 
